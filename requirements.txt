@@ -1,4 +1,12 @@
 pandas
 numpy
 seaborn
+matplotlib
+dtale
+ydata_profiling
+klib
+scikit-learn
+dill
+catboost
+xgboost
 -e .
