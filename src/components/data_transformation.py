@@ -123,3 +123,4 @@ class DataTransformation():
 if __name__=="__main__":    
     data_transformation=DataTransformation()
     data_transformation.initiateDataTransformation(train_path='artifacts\\train.csv',test_path='artifacts\\test.csv')
+  
